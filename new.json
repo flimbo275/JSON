@@ -1,4 +1,7 @@
 {
-	"make":"Subaru",
-	"model":"Forester"
+	"name":"Elena",
+	"age":31,
+	"pets":1,
+	"salary":"NZD 4000"
 }
+	
