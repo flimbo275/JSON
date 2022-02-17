@@ -1,0 +1,20 @@
+{
+	"skills":{
+		"skill_1":"Client-server_model",
+		"skill_2":"HTTP_server_requests",
+		"skill_3":"JSON_XML_structure",
+		"skill_4":"API_Testing_Postman",
+		"skill_5":"logs_from_external_server",
+		"skill_6":"Dev_Tools_of_web_browsers",
+		"skill_7":"VPN",
+		"skill_8":"mobile_testing",
+		"skill_9":"XCode",
+		"skill_10":"Android_Studio",
+		"skill_11":"Linux_terminal",
+		"skill_12":"SQL",
+		"skill_13":"Postgres",
+		"skill_14":"Redis",
+		"skill_15":"Jmeter",
+		"skill_16":"Scrum"
+	}
+}
